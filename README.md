@@ -21,3 +21,5 @@ Flipkart Reviews Dataset from Kaggle
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
+
+                              streamlit url :  https://whvukjx76mxnasdtycwect.streamlit.app/
